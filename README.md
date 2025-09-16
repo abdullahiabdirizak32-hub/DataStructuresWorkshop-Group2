@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Introduction to Data Structures Workshop
 
 Welcome to the **Intro to Data Structures Workshop** — a hands-on introduction to how data is stored, organized, and analyzed in the context of **Machine Learning**.  
@@ -99,3 +100,6 @@ When done, deactivate the virtual environment with:
 ```bash
 deactivate
 ```
+=======
+# DataStructuresWorkshop-Group2
+>>>>>>> 1aeb3f66721852c69018b3e2b6df935538106147
